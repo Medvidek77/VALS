@@ -1,0 +1,2 @@
+# VALS
+Anilist/MAL synchronizer
